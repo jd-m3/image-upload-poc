@@ -58,7 +58,7 @@ const Page: NextPage = () => {
     } else {
       toggleUploadButton(false);
     }
-  });
+  }, [imageArray]);
 
   const onsubmit = (e: SyntheticEvent<HTMLFormElement>): void => {
     console.log(e);
