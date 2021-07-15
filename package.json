@@ -1,0 +1,24 @@
+{
+  "name": "image-upload-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.11",
+    "@types/react": "^17.0.14",
+    "@types/styled-components": "^5.1.11",
+    "typescript": "^4.2.2"
+  }
+}
